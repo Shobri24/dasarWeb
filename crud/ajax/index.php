@@ -37,7 +37,7 @@ include('auth.php');
                     <div class="form-group">
                         <label for="">Jenis Kelamin</label>
                         <input type="radio" name="jenis_kelamin" id="jenkel1" value="L" required="true">Laki-laki
-                        <input type="radio" name "jenis_kelamin" id="jenkel2" value="P" required="true">Perempuan
+                        <input type="radio" name="jenis_kelamin" id="jenkel2" value="P" required="true">Perempuan
                     </div>
                     <p class="text-danger" id="err_jenis_kelamin"></p>
                 </div>
